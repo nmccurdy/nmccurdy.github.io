@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [<!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin 1 for XHTML//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">]>
+<rss version="2.0" xml:base="http://www.realityflythrough.com">
+<channel>
+ <title>Neil&#039;s Research - RealityFlythrough</title>
+ <link>http://www.realityflythrough.com/taxonomy/term/1/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What is it?</title>
+ <link>http://www.realityflythrough.com/node/19</link>
+ <description>&lt;p&gt;
+&lt;img vspace=&quot;0&quot; hspace=&quot;0&quot; border=&quot;0&quot; align=&quot;bottom&quot; style=&quot;width: 440px; height: 208px;&quot; src=&quot;image/view/22&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href=&quot;freelinking/Papers&quot;&gt;Papers&lt;/a&gt; | &lt;a href=&quot;freelinking/Videos&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;freelinking/PowerPoint&quot;&gt;PowerPoint&lt;/a&gt; &lt;/p&gt;&lt;p&gt;RealityFlythrough is a telepresence/tele-reality system that works in the dynamic, uncalibrated environments typically associated with ubiquitous computing. By opportunistically harnessing networked mobile video cameras, it allows a user to remotely and immersively explore a physical space. Live 2d video feeds are situated in a 3d representation of the world.&amp;nbsp; Rather than try to achieve photorealism at every point in space, we instead focus on providing the user with a sense of how the video streams relate to one another spatially. By providing cues in the form of dynamic transitions, we can approximate photorealistic telepresence while harnessing cameras “in the wild.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Sun, 29 May 2005 20:48:44 -0700</pubDate>
+</item>
+<item>
+ <title>RealityFlythrough gives a new look to first-person video</title>
+ <link>http://www.realityflythrough.com/node/33</link>
+ <description>&lt;p&gt;RealityFlythrough-style transitions produce a compelling visualization for low bitrate first-person video streams.&amp;nbsp; So compelling, in fact, that some users in our study preferred this visualization over standard video because it minimizes the &amp;quot;Blaire Witch Project&amp;quot;, nauseating feel of first-person video.&amp;nbsp; More information can be found in our paper: &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;files/hazmat_paper.pdf&quot;&gt;A Robust Abstraction for First-Person Video Streaming: Techniques, Applications, and Experiments&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Example videos of our visualization can be found &lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubivideos/&quot;&gt;here&lt;/a&gt;.&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Thu, 06 Apr 2006 15:41:58 -0700</pubDate>
+</item>
+<item>
+ <title>Ubicomp &#039;05 video ready for download</title>
+ <link>http://www.realityflythrough.com/node/32</link>
+ <description>&lt;p&gt;This is the video that will be shown at Ubicomp &#039;05.&amp;nbsp; The material is very similar to what was presented at Mobisys.&lt;/p&gt;&lt;p&gt;&amp;nbsp;An Abstraction for Ubiquitous Video&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubicomp05_video.wmv&quot;&gt;wm9&lt;/a&gt; (350MB) &lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubicomp05_video_320.wmv&quot;&gt;wm9&lt;/a&gt; (50MB) &lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubicomp05_video.mpg&quot;&gt;mpg2&lt;/a&gt;(450MB)&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Fri, 29 Jul 2005 11:08:16 -0700</pubDate>
+</item>
+<item>
+ <title>Interview on the RobCast</title>
+ <link>http://www.realityflythrough.com/node/31</link>
+ <description>&lt;p&gt;Rob Shields interviews Neil on the RobCast.&amp;nbsp; The RoBlog entry is &lt;a href=&quot;http://theroblog.blogspot.com/&quot;&gt;here&lt;/a&gt;.&amp;nbsp; The interview is &lt;a href=&quot;http://libsyn.com/media/therob/trc_Neil_McCurdy.mp3&quot;&gt;here&lt;/a&gt; (~45 mins, ~21MB).&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Thu, 23 Jun 2005 14:23:17 -0700</pubDate>
+</item>
+<item>
+ <title>A new video based on the Mobisys talk is available for download</title>
+ <link>http://www.realityflythrough.com/node/30</link>
+ <description>&lt;p&gt;A rough draft of a video that parallels my Mobisys talk is now available.&amp;nbsp; It is only 8 minutes long so the material in the talk had to be compressed quite a bit.&lt;/p&gt;&lt;p&gt;An Abstraction for Ubiquitous Video&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubi05video.wmv&quot;&gt;wm9&lt;/a&gt; (50 MB)&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Sat, 11 Jun 2005 03:31:35 -0700</pubDate>
+</item>
+<item>
+ <title>Calit2 news release about Mobisys &#039;05 talk</title>
+ <link>http://www.realityflythrough.com/node/29</link>
+ <description>&lt;p&gt;See the story &lt;a href=&quot;http://www.calit2.net/articles/article.php?id=613&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Tue, 07 Jun 2005 23:05:25 -0700</pubDate>
+</item>
+<item>
+ <title>RealityFlythrough featured at May 12 San Diego MMST drill</title>
+ <link>http://www.realityflythrough.com/node/27</link>
+ <description>&lt;p&gt;See &lt;a href=&quot;http://www.calit2.net/articles/article.php?id=562&quot;&gt;story&lt;/a&gt; on Calit2 website.&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Thu, 02 Jun 2005 11:33:23 -0700</pubDate>
+</item>
+<item>
+ <title>RealityFlythrough partners with WIISARD</title>
+ <link>http://www.realityflythrough.com/node/28</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://wiisard.org&quot;&gt;WIISARD&lt;/a&gt; works closely with the San Diego Metropolitan Medical Stricke Team (MMST).&amp;nbsp; The partnership give us access to real disaster drills for testing RealityFlythrough.&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Tue, 03 May 2005 11:48:56 -0700</pubDate>
+</item>
+<item>
+ <title>Papers</title>
+ <link>http://www.realityflythrough.com/node/25</link>
+ <description>&lt;p&gt;&lt;a href=&quot;files/thesis.pdf&quot;&gt;RealityFlythrough: A System for Ubiquitous Video&lt;/a&gt;&lt;br&gt; Dissertation&lt;br /&gt;Neil J. McCurdy&lt;/p&gt;
+  &lt;p /&gt;&lt;br&gt;&lt;br&gt;
+  &lt;p&gt;&lt;a href=&quot;files/mccurdyFirstPersonVideo.pdf&quot;&gt;A Robust Abstraction for First-Person Video Streaming: Techniques, Applications, and Experiments&lt;/a&gt;&lt;br /&gt;Neil J. McCurdy, William G. Griswold, Leslie A. Lenert&lt;br /&gt;ISM &#039;06&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubivideos/&quot;&gt;Supporting Videos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;files/hazmat_paper.pdf&quot;&gt;A Robust Abstraction for First-Person Video Streaming: Techniques, Applications, and Experiments&lt;/a&gt;&lt;br /&gt;Neil J. McCurdy, William G. Griswold, Leslie A. Lenert&lt;br /&gt;Tech Report &#039;06&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubivideos/&quot;&gt;Supporting Videos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/4">Publications</category>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <enclosure url="http://www.realityflythrough.com/files/rft_first_paper.pdf" length="797990" type="application/pdf" />
+ <pubDate>Sun, 01 May 2005 21:56:41 -0700</pubDate>
+</item>
+<item>
+ <title>Videos</title>
+ <link>http://www.realityflythrough.com/node/24</link>
+ <description>&lt;p&gt;An Abstraction for Ubiquitous Video&lt;br /&gt;Ubicomp &#039;05&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/ubicomp05_video.wmv&quot;&gt;wm9&lt;/a&gt; (350MB) &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/ubicomp05_video_320.wmv&quot;&gt;wm9&lt;/a&gt; (50MB) &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/ubicomp05_video.mpg&quot;&gt;mpg2&lt;/a&gt;(450MB)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p /&gt;&lt;p&gt;Tele-Reality in the Wild&lt;br /&gt;
+UbiComp &#039;04&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/tele_reality_wild_video.wmv&quot;&gt;wm9&lt;/a&gt; (110MB), &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/tele_reality_wild_video.rm&quot;&gt;real&lt;/a&gt; (99MB), &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/tele_reality_wild_video.mpg&quot;&gt;mpg2&lt;/a&gt; (209MB)
+&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/4">Publications</category>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Sat, 30 Apr 2005 23:41:37 -0700</pubDate>
+</item>
+<item>
+ <title>PowerPoint</title>
+ <link>http://www.realityflythrough.com/node/26</link>
+ <description>&lt;p&gt;A Robust Abstraction for First-Person Video Streaming: Techniques, Applications, and Experiments&lt;br /&gt;ISM &#039;06&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ism_talk.ppt&quot;&gt;w/o video segments&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ismtalk.zip&quot;&gt;w/ video segments&lt;/a&gt;&amp;nbsp;(122MB)&lt;/p&gt;
+  &lt;p&gt;A Systems Architecture for Ubiquitous Video (draft)&lt;br /&gt;Mobisys &#039;05&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/mobisys_talk.ppt&quot;&gt;w/o video segments&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/mobisys_talk_with_video.zip&quot;&gt;w/ video segments&lt;/a&gt; (200MB)&lt;/p&gt;
+  &lt;p&gt;Tele-Reality in the Wild UbiComp &#039;04 Location Awareness Workshop&lt;br /&gt;&lt;a href=&quot;node/26/files/Tele-Reality%20in%20the%20Wild.ppt&quot;&gt;w/o video segments&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Sat, 30 Apr 2005 22:41:06 -0700</pubDate>
+</item>
+</channel>
+</rss>

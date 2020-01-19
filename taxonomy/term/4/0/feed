@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [<!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin 1 for XHTML//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">]>
+<rss version="2.0" xml:base="http://www.realityflythrough.com">
+<channel>
+ <title>Neil&#039;s Research - Publications</title>
+ <link>http://www.realityflythrough.com/taxonomy/term/4/0</link>
+ <description>
+</description>
+ <language>en</language>
+<item>
+ <title>Papers</title>
+ <link>http://www.realityflythrough.com/node/25</link>
+ <description>&lt;p&gt;&lt;a href=&quot;files/thesis.pdf&quot;&gt;RealityFlythrough: A System for Ubiquitous Video&lt;/a&gt;&lt;br&gt; Dissertation&lt;br /&gt;Neil J. McCurdy&lt;/p&gt;
+  &lt;p /&gt;&lt;br&gt;&lt;br&gt;
+  &lt;p&gt;&lt;a href=&quot;files/mccurdyFirstPersonVideo.pdf&quot;&gt;A Robust Abstraction for First-Person Video Streaming: Techniques, Applications, and Experiments&lt;/a&gt;&lt;br /&gt;Neil J. McCurdy, William G. Griswold, Leslie A. Lenert&lt;br /&gt;ISM &#039;06&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubivideos/&quot;&gt;Supporting Videos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;files/hazmat_paper.pdf&quot;&gt;A Robust Abstraction for First-Person Video Streaming: Techniques, Applications, and Experiments&lt;/a&gt;&lt;br /&gt;Neil J. McCurdy, William G. Griswold, Leslie A. Lenert&lt;br /&gt;Tech Report &#039;06&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/~nemccurd/ubivideos/&quot;&gt;Supporting Videos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/4">Publications</category>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <enclosure url="http://www.realityflythrough.com/files/rft_first_paper.pdf" length="797990" type="application/pdf" />
+ <pubDate>Sun, 01 May 2005 21:56:41 -0700</pubDate>
+</item>
+<item>
+ <title>Videos</title>
+ <link>http://www.realityflythrough.com/node/24</link>
+ <description>&lt;p&gt;An Abstraction for Ubiquitous Video&lt;br /&gt;Ubicomp &#039;05&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/ubicomp05_video.wmv&quot;&gt;wm9&lt;/a&gt; (350MB) &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/ubicomp05_video_320.wmv&quot;&gt;wm9&lt;/a&gt; (50MB) &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/ubicomp05_video.mpg&quot;&gt;mpg2&lt;/a&gt;(450MB)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p /&gt;&lt;p&gt;Tele-Reality in the Wild&lt;br /&gt;
+UbiComp &#039;04&lt;br /&gt;&lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/tele_reality_wild_video.wmv&quot;&gt;wm9&lt;/a&gt; (110MB), &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/tele_reality_wild_video.rm&quot;&gt;real&lt;/a&gt; (99MB), &lt;a href=&quot;http://activecampus2.ucsd.edu/%7Enemccurd/tele_reality_wild_video.mpg&quot;&gt;mpg2&lt;/a&gt; (209MB)
+&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/4">Publications</category>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/1">RealityFlythrough</category>
+ <pubDate>Sat, 30 Apr 2005 23:41:37 -0700</pubDate>
+</item>
+</channel>
+</rss>

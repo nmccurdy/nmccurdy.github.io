@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [<!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin 1 for XHTML//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">]>
+<rss version="2.0" xml:base="http://www.realityflythrough.com">
+<channel>
+ <title>Neil&#039;s Research - Personal</title>
+ <link>http://www.realityflythrough.com/taxonomy/term/2/0</link>
+ <description>
+</description>
+ <language>en</language>
+<item>
+ <title>About Me</title>
+ <link>http://www.realityflythrough.com/node/1</link>
+ <description>&lt;table style=&quot;FLOAT: none; BACKGROUND-IMAGE: none; VERTICAL-ALIGN: top; WIDTH: 567px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 249px; TEXT-ALIGN: left; BORDER-BOTTOM-STYLE: none&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; rules=&quot;none&quot; border=&quot;0&quot; frame=&quot;void&quot;&gt;
+    &lt;tbody&gt;&lt;br /&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;BACKGROUND-IMAGE: none; VERTICAL-ALIGN: top; WIDTH: 15%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: left; BORDER-BOTTOM-STYLE: none&quot;&gt;&lt;img style=&quot;WIDTH: 250px; HEIGHT: 240px&quot; hspace=&quot;0&quot; src=&quot;files/neil_smaller.png&quot; border=&quot;0&quot; /&gt;&lt;/td&gt;
+        &lt;td style=&quot;WIDTH: 50%&quot; align=&quot;center&quot;&gt;
+          &lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;6&quot;&gt;Neil McCurdy&lt;/font&gt;&lt;/p&gt;
+</description>
+ <category domain="http://www.realityflythrough.com/taxonomy/term/2">Personal</category>
+ <pubDate>Sun, 29 May 2005 01:22:51 -0700</pubDate>
+</item>
+</channel>
+</rss>
